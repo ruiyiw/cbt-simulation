@@ -1,0 +1,37 @@
+{
+    "name": "",
+    "identifying_info": {
+        "age": "",
+        "gender": "",
+        "sexual_orientation": "",
+        "cultural_heritage": "",
+        "religion": "",
+        "living_environment": "",
+        "employment_status": "",
+        "socioeconomic_status": ""
+    },
+    "chief_complaint": "",
+    "major_symptoms": {
+        "emotional": [],
+        "cognitive": [],
+        "behavioral": [],
+        "physiological": []
+    },
+    "mental_status": "",
+    "diagnosis": "",
+    "current_psychiatric_treatment": {
+        "medication": "",
+        "adherence_and_side_effects": ""
+    },
+    "current_significant_relationships": "",
+    "best_lifetime_functioning": "",
+    "history_of_present_illness": "",
+    "history_of_psychological_problem_impact": "",
+    "history_of_psychological_care": "",
+    "personal_history": "",
+    "medical_history_and_limitations": "",
+    "current_non_psychiatric_treatment": {
+        "medication": "",
+        "adherence_and_side_effects": ""
+    }
+}

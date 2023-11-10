@@ -1667,7 +1667,8 @@
                 "role": "THERAPIST",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "0e714457-2c08-4f9d-9b46-88e63d48e30c"
     },
     {
         "title": "Client 'KF', Session October 23, 2013: Client and his parents discuss the results of client's efforts at self-regulation strategies for doing his schoolwork. Client's parents also discuss his medication with therapist.",
@@ -2945,7 +2946,8 @@
                 "role": "FATHER",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "763ed0e3-e5b8-47f2-bfbd-00cbbb0b5533"
     },
     {
         "title": "Client 'KF', Session November 20, 2013: Client and client's parents discuss recent issues with bullying at school as well as client's differing responses to discipline depending on which parent he is interacting with, and strategies to manage him.",
@@ -4695,7 +4697,8 @@
                 "role": "THERAPIST",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "416e23d9-86d9-4dd0-bb48-8a7f8bef2560"
     },
     {
         "title": "Client 'YM', Session September 03, 2013: Client discusses anger and disappointment over sister's drug habits; especially since they remind the client of their mother's drug problems. Client also discusses the possibility of starting rolling skating.",
@@ -6433,7 +6436,8 @@
                 "role": "CLIENT",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "313d583c-e3f0-4772-8323-9c261f7cb9dc"
     },
     {
         "title": "Client 'KF', Session December 18, 2013: Client is grieving about the death of the family dog. Client and parents discuss how this is impacting his behavior.",
@@ -7747,7 +7751,8 @@
                 "role": "THERAPIST",
                 "content": "So you're fine with him going ahead and having it shut itself off for - oh, wait a minute, that's going to mess up' No, you could - hmm, I'm confused. Is Pandora an application, an app?"
             }
-        ]
+        ],
+        "id": "f98372a0-5029-47be-bb1f-6296bd577fde"
     },
     {
         "title": "Client 'YM', Session October 22, 2013: Client and therapist discuss her self-confidence issues in public speaking and school, therapist empowers client.",
@@ -9437,7 +9442,8 @@
                 "role": "CLIENT",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "68be5488-5b9c-463f-94f3-50310c2e4871"
     },
     {
         "title": "Client 'YM', Session October 01, 2013: Client discusses the loss of her aunt when she was young. Client also discusses her inability to grieve and face her grief.",
@@ -10671,7 +10677,8 @@
                 "role": "CLIENT",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "9685818b-a77e-4437-a5b8-8929b6a7c70a"
     },
     {
         "title": "Client 'YM', Session October 15, 2013: Client discusses her anxiety about public speaking, client and therapist name her self-doubt to make it easier for her to discuss it.",
@@ -12549,7 +12556,8 @@
                 "role": "CLIENT",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "c086ecfe-fd8a-4c52-aa95-d497e94662b3"
     },
     {
         "title": "Client 'YM', Session October 29, 2013: Client discusses her academic interests and goals. Client also discusses her interest in speechmaking.",
@@ -14403,7 +14411,8 @@
                 "role": "THERAPIST",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "86ce06f0-fc54-4410-b60c-46d8cf021024"
     },
     {
         "title": "Client 'YM', Session July 11, 2013: Client discusses the difficulty of growing up impoverished and with a drug-addicted parent, and the hardships of looking after her siblings.",
@@ -15653,7 +15662,8 @@
                 "role": "THERAPIST",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "dc293f56-3732-4164-b6e0-35a807e91367"
     },
     {
         "title": "Client 'YM', Session July 18, 2013: Client feels happy, discusses school, attention issues, care-taking duties, and family.",
@@ -16823,7 +16833,8 @@
                 "role": "THERAPIST",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "e885e7f5-de4c-4fbd-8c26-3d17e4418494"
     },
     {
         "title": "Client 'KF', Session December 4, 2013: Client and his parents discuss a recent disagreement and therapist helps each of them empathize with the other's viewpoint.",
@@ -18589,7 +18600,8 @@
                 "role": "FATHER",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "6bb61619-e177-4a71-94bf-c9bc97f44379"
     },
     {
         "title": "Client 'YM', Session November 12, 2013: Client and therapist discuss how childhood trauma contributes to her anxiety, and how she has transferred her anxiety into school.",
@@ -20227,7 +20239,8 @@
                 "role": "THERAPIST",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "daf9ec40-a1f3-41f4-be0e-3fb18f440262"
     },
     {
         "title": "Client 'YM', Session November 26, 2013: Client discusses her academic life and her extra-curricular interests, such as Toastmasters.",
@@ -21493,6 +21506,7 @@
                 "role": "CLIENT",
                 "content": "END TRANSCRIPT"
             }
-        ]
+        ],
+        "id": "3f9f072a-a003-4f33-8303-371f1c60dd59"
     }
 ]

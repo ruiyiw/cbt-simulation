@@ -1,0 +1,48 @@
+{
+    "name": "Kevin",
+    "identifying_info": {
+        "age": "13",
+        "gender": "male",
+        "sexual_orientation": "not specified",
+        "cultural_heritage": "not specified",
+        "religion": "not specified",
+        "living_environment": "lives with parents",
+        "employment_status": "student",
+        "socioeconomic_status": "not specified"
+    },
+    "chief_complaint": "not specified",
+    "major_symptoms": {
+        "emotional": [
+            "irritability"
+        ],
+        "cognitive": [
+            "restlessness",
+            "discomfort intolerance"
+        ],
+        "behavioral": [
+            "conflict with sister",
+            "restlessness",
+            "struggle with maintaining organization and attention"
+        ],
+        "physiological": [
+            "asthma"
+        ]
+    },
+    "mental_status": "seems to experience restlessness, periods of irritability, and struggles with boredom; displayed a sense of humor and resilience in face of minor physical pain",
+    "diagnosis": "not specified",
+    "current_psychiatric_treatment": {
+        "medication": "implied use of an asthma inhaler but not psychiatric medication",
+        "adherence_and_side_effects": "not specified"
+    },
+    "current_significant_relationships": "tensions with younger sister, strong relationship with both parents, social engagement with peers",
+    "best_lifetime_functioning": "not specified",
+    "history_of_present_illness": "not specified",
+    "history_of_psychological_problem_impact": "not specified",
+    "history_of_psychological_care": "not specified",
+    "personal_history": "active and enjoys outdoor activities, plays videogames but recently less engaged with them, exhibits an explorative and adventurous nature",
+    "medical_history_and_limitations": "experiences asthma",
+    "current_non_psychiatric_treatment": {
+        "medication": "inhaler for asthma, specifics not provided",
+        "adherence_and_side_effects": "not specified"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Kevin",
+    "identifying_info": {
+        "age": "13",
+        "gender": "male",
+        "sexual_orientation": "not specified",
+        "cultural_heritage": "not specified",
+        "religion": "not specified",
+        "living_environment": "lives with parents",
+        "employment_status": "part-time work at father's store",
+        "socioeconomic_status": "middle class"
+    },
+    "chief_complaint": "anger management issues and struggles with academic performance relating to ADD",
+    "major_symptoms": {
+        "emotional": [
+            "quick to anger",
+            "feel frustrated"
+        ],
+        "cognitive": [
+            "difficulties with organization, trouble focusing on tasks"
+        ],
+        "behavioral": [
+            "outbursts of anger",
+            "avoidance of academic responsibilities when upset"
+        ],
+        "physiological": [
+            "not specified"
+        ]
+    },
+    "mental_status": "Patient is capable of reflection on his behavior and possesses a level of self-awareness about his actions and their motivations.",
+    "diagnosis": "Attention Deficit Disorder with a consideration for anger management issues",
+    "current_psychiatric_treatment": {
+        "medication": "ADHD patch",
+        "adherence_and_side_effects": "reports taking off the patch when it starts to fall off or itch"
+    },
+    "current_significant_relationships": "close to father, and maintains a long-distance romantic relationship through texting",
+    "best_lifetime_functioning": "not specified",
+    "history_of_present_illness": "challenges with ADD have been present for multiple years, recent increase in anger episodes has been notable",
+    "history_of_psychological_problem_impact": "struggles with consistent school performance and homework submission, incidents of physical aggression as a response to external stressors",
+    "history_of_psychological_care": "not specified",
+    "personal_history": "expresses active interests in activities such as fishing and sports shooting, works part time for family business",
+    "medical_history_and_limitations": "no physical limitations reported, on medication for ADD",
+    "current_non_psychiatric_treatment": {
+        "medication": "none",
+        "adherence_and_side_effects": "none"
+    }
+}

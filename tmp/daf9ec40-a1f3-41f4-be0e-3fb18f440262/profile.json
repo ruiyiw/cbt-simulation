@@ -1,0 +1,48 @@
+{
+    "name": "Yvette",
+    "identifying_info": {
+        "age": "N/A",
+        "gender": "female",
+        "sexual_orientation": "N/A",
+        "cultural_heritage": "N/A",
+        "religion": "N/A",
+        "living_environment": "N/A",
+        "employment_status": "N/A",
+        "socioeconomic_status": "N/A"
+    },
+    "chief_complaint": "Yvette is exhibiting anxiety and self-doubt, particularly in relation to her memory and learning abilities.",
+    "major_symptoms": {
+        "emotional": [
+            "anxiety",
+            "self-doubt",
+            "overwhelm"
+        ],
+        "cognitive": [
+            "fear of forgetting",
+            "difficulty summarizing information",
+            "challenges with information retention"
+        ],
+        "behavioral": [
+            "repeatedly checking and looking up words",
+            "excessive questioning of her intelligence"
+        ],
+        "physiological": []
+    },
+    "mental_status": "Yvette is articulate and able to express her concerns clearly during the therapy session. She demonstrates a high level of insight into her behaviors and appears to engage actively in the therapeutic process.",
+    "diagnosis": "No explicit diagnosis provided within transcript, however, symptoms suggestive of anxiety-related concerns possibly influenced by past traumatic experiences and a need for control.",
+    "current_psychiatric_treatment": {
+        "medication": "N/A",
+        "adherence_and_side_effects": "N/A"
+    },
+    "current_significant_relationships": "Yvette has mentioned having children and a stepdaughter, but the depth and quality of these relationships are not elaborated within the provided transcript.",
+    "best_lifetime_functioning": "N/A",
+    "history_of_present_illness": "Symptoms of anxiety and self-doubt are evident, potentially related to traumatic events in Yvette's past.",
+    "history_of_psychological_problem_impact": "The anxiety Yvette experiences seem to affect her academic performance and personal life, although she has been able to maintain a high academic standing despite her challenges.",
+    "history_of_psychological_care": "N/A",
+    "personal_history": "Yvette has a background in nursing and has children. Her past involved traumatic and unpredictable events that could be influencing her current mental state.",
+    "medical_history_and_limitations": "N/A",
+    "current_non_psychiatric_treatment": {
+        "medication": "N/A",
+        "adherence_and_side_effects": "N/A"
+    }
+}

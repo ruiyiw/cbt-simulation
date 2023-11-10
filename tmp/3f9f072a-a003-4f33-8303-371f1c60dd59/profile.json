@@ -1,0 +1,44 @@
+{
+    "name": "Yvette",
+    "identifying_info": {
+        "age": "41",
+        "gender": "female",
+        "sexual_orientation": "not specified",
+        "cultural_heritage": "not specified",
+        "religion": "not specified",
+        "living_environment": "not specified",
+        "employment_status": "student",
+        "socioeconomic_status": "not specified"
+    },
+    "chief_complaint": "not specified",
+    "major_symptoms": {
+        "emotional": [
+            "increased emotional sensitivity",
+            "crying easily, both when happy and otherwise"
+        ],
+        "cognitive": [
+            "initial difficulties with reading without constantly referring to a dictionary"
+        ],
+        "behavioral": [
+            "avoided research tasks due to technical issues and perceived dislike for research"
+        ],
+        "physiological": []
+    },
+    "mental_status": "Yvette has been showing signs of emotional growth and an increase in self-confidence, especially in her academic pursuits. She has demonstrated increased emotional expressiveness and reduced dependency on immediate solutions like looking up every word in a dictionary.",
+    "diagnosis": "not specified",
+    "current_psychiatric_treatment": {
+        "medication": "none",
+        "adherence_and_side_effects": "not applicable"
+    },
+    "current_significant_relationships": "not specified",
+    "best_lifetime_functioning": "not specified",
+    "history_of_present_illness": "not specified",
+    "history_of_psychological_problem_impact": "not specified",
+    "history_of_psychological_care": "Yvette has been undergoing Cognitive Behavioral Therapy to increase her self-confidence and dealing with self-imposed pressures.",
+    "personal_history": "Yvette mentions a transition from feeling a need to control to allowing herself to express her emotions more openly.",
+    "medical_history_and_limitations": "not specified",
+    "current_non_psychiatric_treatment": {
+        "medication": "none",
+        "adherence_and_side_effects": "not applicable"
+    }
+}

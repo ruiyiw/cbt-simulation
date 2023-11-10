@@ -1,0 +1,34 @@
+{
+    "relevent_life_history_and_precipitants": "Yvette expresses ongoing issues with self-confidence and difficulties in verbal articulation, affecting her teamwork and academic performance. No specific trigger mentioned, but the issue appears to have its roots in past experiences such as being undermined by a classmate.",
+    "core_beliefs": "I'm not smart enough. I must be perfect. I should understand and know everything.",
+    "intermediate_beliefs": [
+        "I must excel and be the best at what I do.",
+        "If I don't understand something, it's my fault.",
+        "People expect me to perform perfectly."
+    ],
+    "intermediate_beliefs_during_depression": [],
+    "coping_strategies": "Asks for repeated clarifications, yields to others who claim to know better despite bewilderment, avoids confronting the possibility of her understanding being correct.",
+    "behavioral_models": [
+        {
+            "situation": "Working on a group project",
+            "automatic_thoughts": "I must be the one not understanding the assignment.",
+            "meaning_of_at": "I doubt my intelligence and feel the need to rely on others' direction.",
+            "emotion": "Confusion, frustration",
+            "behavior": "Cedes control to a classmate, questions own comprehension"
+        },
+        {
+            "situation": "Recollection of JROTC success",
+            "automatic_thoughts": "I enjoyed the competitiveness and was very successful.",
+            "meaning_of_at": "Remembrance of times when confident in her abilities and feeling competent.",
+            "emotion": "Pride, nostalgia",
+            "behavior": "Shares memories positively but disconnects past success from current self-image"
+        },
+        {
+            "situation": "Speaking in public without being prepared",
+            "automatic_thoughts": "I should have been prepared like others.",
+            "meaning_of_at": "Believes she should meet certain standards even though she manages well.",
+            "emotion": "Anxiety, embarrassment",
+            "behavior": "Compensates with humor, recovers from initial nervousness and speaks from the heart"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Kevin",
+    "identifying_info": {
+        "age": "13",
+        "gender": "male",
+        "sexual_orientation": "N/A",
+        "cultural_heritage": "N/A",
+        "religion": "N/A",
+        "living_environment": "family home",
+        "employment_status": "student",
+        "socioeconomic_status": "N/A"
+    },
+    "chief_complaint": "N/A",
+    "major_symptoms": {
+        "emotional": [
+            "distraught over pet loss",
+            "anger",
+            "defiance"
+        ],
+        "cognitive": [
+            "focus and concentration problems without medication"
+        ],
+        "behavioral": [
+            "refusal to go to school on occasion, isolated behavior post-pet loss",
+            "increased screen time at night"
+        ],
+        "physiological": [
+            "disturbed sleep patterns"
+        ]
+    },
+    "mental_status": "Patient is an adolescent dealing with typical developmental challenges, family conflicts, and recent bereavement of a pet. No major cognitive impairments observed, though there is mention of ADD with reported trouble concentrating without medication.",
+    "diagnosis": "ADD (Attention Deficit Disorder), grieving process",
+    "current_psychiatric_treatment": {
+        "medication": "Uses a patch to manage ADD symptoms",
+        "adherence_and_side_effects": "medication adherence is variable, with some resistance noted to wearing a patch in the prescribed manner; difficulty with adherence later in the day"
+    },
+    "current_significant_relationships": "Reports being close to family but shows signs of defiance and tension within the family unit. Recent loss of pet has significant emotional impact.",
+    "best_lifetime_functioning": "N/A",
+    "history_of_present_illness": "The patient did not specifically discuss a history of illness, but mentioned a significant recent event, the loss of a pet, which has impacted his well-being.",
+    "history_of_psychological_problem_impact": "Patient's ADD appears to impact his daily functioning, particularly in the morning and evening as medication wears off. The patient also had difficulty adjusting to changes at school and had been suspended.",
+    "history_of_psychological_care": "Patient is currently in therapy; no other history of psychological care mentioned.",
+    "personal_history": "Limited personal history provided. The patient is currently coping with the loss of his pet and the adjustments needed for managing behavior and school-related tasks.",
+    "medical_history_and_limitations": "References to possible asthma condition, as patient mentions having 'really bad asthma right now.'",
+    "current_non_psychiatric_treatment": {
+        "medication": "N/A",
+        "adherence_and_side_effects": "N/A"
+    }
+}

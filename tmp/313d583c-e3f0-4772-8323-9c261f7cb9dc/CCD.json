@@ -1,0 +1,36 @@
+{
+    "relevent_life_history_and_precipitants": "Discusses her family dynamics extensively, particularly the influence of her mother's and sister's choices regarding drug use and life direction. She is actively involved in taking care of her family, especially her grandfather. Expresses a strong desire for personal recreational time, which she struggles to manage due to family obligations.",
+    "core_beliefs": "I follow my own voice and set examples for others despite adversity.",
+    "intermediate_beliefs": [
+        "I should be productive and help my family",
+        "I can lead by example and make better choices than my family"
+    ],
+    "intermediate_beliefs_during_depression": [
+        "If I take time for myself, I might not fulfill my responsibilities",
+        "Focusing on my own needs is difficult when my family needs me"
+    ],
+    "coping_strategies": "Focuses on education and career goals, actively caring for family members, putting off personal recreational activities.",
+    "behavioral_models": [
+        {
+            "situation": "Book club meeting mentioned as a regular enjoyable activity.",
+            "automatic_thoughts": "I enjoy being with people and doing stuff with them.",
+            "meaning_of_at": "Finds joy in social connections and shared activities.",
+            "emotion": "Happiness, anticipation.",
+            "behavior": "Participates in the club, even if she hasn't read the book."
+        },
+        {
+            "situation": "Advised by a therapist to go roller skating.",
+            "automatic_thoughts": "I'm going to come back here broke up into pieces.",
+            "meaning_of_at": "Apprehensive about trying new activities due to potential negative outcomes.",
+            "emotion": "Fear, hesitation.",
+            "behavior": "Agrees to the therapist's challenge but expresses concern."
+        },
+        {
+            "situation": "Reflecting on time management.",
+            "automatic_thoughts": "I can't remember when I had time to write that book.",
+            "meaning_of_at": "Feels overwhelmed with current responsibilities and unable to find personal time.",
+            "emotion": "Frustration, fatigue.",
+            "behavior": "Continues to work hard and care for the family while personal projects remain unfinished."
+        }
+    ]
+}

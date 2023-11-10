@@ -1,0 +1,36 @@
+{
+    "relevent_life_history_and_precipitants": "Struggles with self-doubt and setting unrealistically high expectations for self-recognition due to high-pressure and criticism experienced in her family environment. Transitioning into a focused phase on personal growth after sons have left home.",
+    "core_beliefs": "I'm not smart enough or competent enough.",
+    "intermediate_beliefs": [
+        "I must remember everything I learn to prove I'm competent.",
+        "I need to give 100% all the time to be successful."
+    ],
+    "intermediate_beliefs_during_depression": [
+        "If I don't use aids like note cards, I'm not prepared or professional.",
+        "If I can\u2019t recall information perfectly, I didn\u2019t learn it effectively."
+    ],
+    "coping_strategies": "Procrastinates on assignments, hesitates to embrace leadership roles, utilizes extensive note-taking and memorization to ensure accuracy and competence.",
+    "behavioral_models": [
+        {
+            "situation": "Became vice president of membership for speech club without preparation.",
+            "automatic_thoughts": "Did they make a mistake choosing me?",
+            "meaning_of_at": "Being chosen by mistake means I'm not genuinely competent or deserving.",
+            "emotion": "Self-doubt, insecurity",
+            "behavior": "Questioning the legitimacy of her role and her abilities."
+        },
+        {
+            "situation": "Turned in a school assignment late and didn't know the professor's response yet.",
+            "automatic_thoughts": "Even with a valid reason, it's unacceptable to submit work late.",
+            "meaning_of_at": "Submitting late work means I'm irresponsible or not managing my time well.",
+            "emotion": "Anxiety, fear of judgment",
+            "behavior": "Justifying actions to self and concern about academic performance."
+        },
+        {
+            "situation": "Considering exploring neurophysiology.",
+            "automatic_thoughts": "It's very complicated, and I might not be able to remember everything.",
+            "meaning_of_at": "If I can't remember everything, I'm not smart enough to tackle complex subjects.",
+            "emotion": "Intimidation, self-doubt",
+            "behavior": "Avoidance of pursuing an interest because it seems too challenging."
+        }
+    ]
+}

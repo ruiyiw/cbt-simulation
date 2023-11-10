@@ -1,0 +1,50 @@
+{
+    "name": "Yvette",
+    "identifying_info": {
+        "age": "41",
+        "gender": "female",
+        "sexual_orientation": "not specified",
+        "cultural_heritage": "African American",
+        "religion": "not specified",
+        "living_environment": "recently moved to a new, more positive environment",
+        "employment_status": "in the process of changing career paths",
+        "socioeconomic_status": "history of growing up in poverty"
+    },
+    "chief_complaint": "Struggling with self-identity, past traumas, and a recent incident that impacted her confidence",
+    "major_symptoms": {
+        "emotional": [
+            "pride in current progress",
+            "exhaustion from past traumas",
+            "pain linked with past memories"
+        ],
+        "cognitive": [
+            "questioning own intelligence",
+            "learning difficulties",
+            "trouble with memory recall or retention"
+        ],
+        "behavioral": [
+            "strong determination to succeed",
+            "display of resilience through ongoing crises"
+        ],
+        "physiological": [
+            "not specified"
+        ]
+    },
+    "mental_status": "Yvette demonstrates self-awareness and introspection, but also carries a burden of self-imposed expectations. While she acknowledges her own resilience and achievements, there is an undercurrent of self-doubt and a tendency to blame personal flaws for challenges encountered.",
+    "diagnosis": "not formally diagnosed during this session, but indications of possible learning disability and trauma",
+    "current_psychiatric_treatment": {
+        "medication": "not specified",
+        "adherence_and_side_effects": "not specified"
+    },
+    "current_significant_relationships": "Yvette has a caring role in her family and has historically taken on a maternal role. She values family and has been pivotal in caring for relatives, but also feels a sense of burden for their well-being.",
+    "best_lifetime_functioning": "Yvette has previously excelled when she found teaching methods that suited her learning style, achieving high grades and tutoring other students in math.",
+    "history_of_present_illness": "The intersection of racial experiences, familial obligations, and educational struggles have contributed to Yvette's current challenges. An incident during a certification test was particularly triggering and has led to self-doubt.",
+    "history_of_psychological_problem_impact": "Yvette's past is marked by taking on adult responsibilities from a young age, dealing with a mother addicted to drugs, and facing the pressures of supporting and guiding younger siblings.",
+    "history_of_psychological_care": "not specified",
+    "personal_history": "Grew up in poverty and has overcome numerous challenges, including a miscarriage at a young age and taking responsibility for siblings due to mother's drug addiction.",
+    "medical_history_and_limitations": "There was no notable discussion of medical history beyond the miscarriage and experiences with family members' medical conditions.",
+    "current_non_psychiatric_treatment": {
+        "medication": "not specified",
+        "adherence_and_side_effects": "not specified"
+    }
+}

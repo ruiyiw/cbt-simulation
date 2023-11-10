@@ -1,0 +1,36 @@
+{
+    "relevent_life_history_and_precipitants": "Significant losses in her family with strong emotional connections particularly to an aunt who played a nurturing role. Yvette feels a strong responsibility for others, often taking on tasks and roles to ensure everything is done to her standard of perfection. Struggles with grief and loss began early in her life and have continued to be a theme. Recent events of her children maturing and requiring less of her daily focus have led to Yvette questioning her purpose and pushing herself academically.",
+    "core_beliefs": "If I don't excel, I'm a failure and I'm not fulfilling my purpose.",
+    "intermediate_beliefs": [
+        "I have to achieve perfection to be successful.",
+        "My self-worth is tied to being able to manage and control outcomes successfully."
+    ],
+    "intermediate_beliefs_during_depression": [
+        "If I'm not perfect or achieving, I'm worthless.",
+        "I must carry the burdens of others and clean up after events to be considered useful or good."
+    ],
+    "coping_strategies": "Yvette copes by maintaining high standards for herself, taking on the responsibility for others, and pushing herself academically and personally to achieve success. She avoids confronting her feelings directly, instead focusing on tasks and responsibilities to navigate loss and grief.",
+    "behavioral_models": [
+        {
+            "situation": "Yvette's son graduates high school.",
+            "automatic_thoughts": "Now it's 'me' time, I have to do something with myself.",
+            "meaning_of_at": "Her self-worth is tied to how busy she is and how useful she feels to others.",
+            "emotion": "Uncertainty, anxiety",
+            "behavior": "Pushes herself to take on more academic challenges, suppresses her grief."
+        },
+        {
+            "situation": "Seeing friends and family enjoying life supposedly without the burden of a partner.",
+            "automatic_thoughts": "Am I actually happy, or am I missing out on something in life?",
+            "meaning_of_at": "Doubts about her satisfaction with life and concerns about missing out on experiences.",
+            "emotion": "Envy, sadness, introspection.",
+            "behavior": "Compares her life to others', causing self-doubt."
+        },
+        {
+            "situation": "Sharing positive feedback and accomplishments with her family.",
+            "automatic_thoughts": "They don't seem interested in what I have to say.",
+            "meaning_of_at": "Believes she is not valued or listened to, which might be contributing to a sense of isolation or worthlessness.",
+            "emotion": "Frustration, hurt, anger",
+            "behavior": "Withholds emotions and feels unappreciated at home."
+        }
+    ]
+}

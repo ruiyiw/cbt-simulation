@@ -1,0 +1,48 @@
+{
+    "name": "Yvette",
+    "identifying_info": {
+        "age": "44",
+        "gender": "female",
+        "sexual_orientation": "not specified",
+        "cultural_heritage": "not specified",
+        "religion": "not specified",
+        "living_environment": "not specified",
+        "employment_status": "currently active in speech club as vice president of membership",
+        "socioeconomic_status": "not specified"
+    },
+    "chief_complaint": "not explicitly mentioned in transcript",
+    "major_symptoms": {
+        "emotional": [
+            "self-doubt",
+            "feeling pressured",
+            "frustration"
+        ],
+        "cognitive": [
+            "struggle with organizing thoughts",
+            "difficulty recognizing personal achievements",
+            "tendency to self-criticize"
+        ],
+        "behavioral": [
+            "procrastination on assignments",
+            "hesitancy to embrace leadership roles due to self-doubt"
+        ],
+        "physiological": []
+    },
+    "mental_status": "Yvette is articulate and communicates well verbally, with good insight into her tendencies toward self-doubt. She expresses emotions of relief and breakthrough when new concepts are understood.",
+    "diagnosis": "not specified",
+    "current_psychiatric_treatment": {
+        "medication": "not specified",
+        "adherence_and_side_effects": "not specified"
+    },
+    "current_significant_relationships": "not specified",
+    "best_lifetime_functioning": "Yvette has succeeded in roles that require organization and leadership, fulfilling the role of vice president of membership for her speech club without preparation and to positive acclaim.",
+    "history_of_present_illness": "not specified",
+    "history_of_psychological_problem_impact": "Yvette expresses a history of setting unrealistically high expectations for herself, impacting her ability to recognize and appreciate her achievements and intelligence.",
+    "history_of_psychological_care": "Current CBT sessions are focused on self-appreciation and acknowledging personal talents and capabilities.",
+    "personal_history": "Yvette is a mother with sons who have left home; she's transitioning into a phase of life focused more on her personal growth and interests.",
+    "medical_history_and_limitations": "not specified",
+    "current_non_psychiatric_treatment": {
+        "medication": "not specified",
+        "adherence_and_side_effects": "not specified"
+    }
+}

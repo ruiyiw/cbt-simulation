@@ -1,0 +1,48 @@
+{
+    "name": "Kevin",
+    "identifying_info": {
+        "age": "adolescent",
+        "gender": "male",
+        "sexual_orientation": "",
+        "cultural_heritage": "",
+        "religion": "",
+        "living_environment": "",
+        "employment_status": "student",
+        "socioeconomic_status": ""
+    },
+    "chief_complaint": "Kevin's parents are concerned about his oppositional behavior, anger management, and trouble adhering to rules and responsibilities such as completing homework, taking medication as prescribed, and not engaging in prohibited activities like unauthorized use of a vehicle.",
+    "major_symptoms": {
+        "emotional": [
+            "angry outbursts"
+        ],
+        "cognitive": [
+            "defiance",
+            "resistance to authority figures",
+            "difficulty with self-regulation and organization"
+        ],
+        "behavioral": [
+            "refusal to hand over phone during study times",
+            "driving a vehicle without permission",
+            "arguments with parents and potentially risky behavior",
+            "non-adherence to medication regimen"
+        ],
+        "physiological": []
+    },
+    "mental_status": "Kevin exhibits symptoms of oppositional defiant disorder and struggles with self-regulation. He also portrays a significant lack of trust in parental authority, especially his mother, and demonstrates quickness to anger.",
+    "diagnosis": "",
+    "current_psychiatric_treatment": {
+        "medication": "Daytrana patch",
+        "adherence_and_side_effects": "Non-adherence to the agreed schedule of medication application and removal. No reported side effects."
+    },
+    "current_significant_relationships": "Kevin has a contentious relationship with his mother, more trust with his father, and typical sibling conflicts with his younger sister.",
+    "best_lifetime_functioning": "The transcript did not provide explicit information on Kevin's best lifetime functioning.",
+    "history_of_present_illness": "Kevin's current behavioral issues and oppositional tendencies have been escalating, as noted by conflicts, most notably involving use of a vehicle and adherence to household rules.",
+    "history_of_psychological_problem_impact": "Kevin's psychological issues are impacting his family dynamics and his performance in academic settings, as evidenced by reported grades and interactions with parents.",
+    "history_of_psychological_care": "The transcript does not specify a detailed history of psychological care outside of the current therapy setting.",
+    "personal_history": "Kevin is adopted. He has experienced situations where he has had to establish independence or face additional responsibilities. He is described as intelligent but struggles with organization and compliance.",
+    "medical_history_and_limitations": "",
+    "current_non_psychiatric_treatment": {
+        "medication": "",
+        "adherence_and_side_effects": ""
+    }
+}

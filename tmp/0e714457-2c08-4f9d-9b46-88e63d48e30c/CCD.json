@@ -1,0 +1,36 @@
+{
+    "relevent_life_history_and_precipitants": "Kevin was adopted as an infant; his birth mother was 15 and unable to care for him. Kevin's current struggles with anger management and academic performance, particularly related to his ADD, have been exacerbated by his recent increase in anger episodes and challenges with consistent school performance and homework submission.",
+    "core_beliefs": "I need to prove my competence and autonomy by managing my own responsibilities, particularly in my academic life.",
+    "intermediate_beliefs": [
+        "I am capable and can be responsible when I put in effort.",
+        "If I work hard, I can manage my tasks and succeed."
+    ],
+    "intermediate_beliefs_during_depression": [
+        "I can become overwhelmed and react with anger when feeling pressured or criticized.",
+        "My performance in tasks, especially school work, is pivotal to my self-esteem and sense of competence."
+    ],
+    "coping_strategies": "Engaging in preferred activities such as fishing and sports shooting, working part-time at father's store, attempting to manage anger through personal reflection and potential writing exercises.",
+    "behavioral_models": [
+        {
+            "situation": "Being faced with academic responsibilities.",
+            "automatic_thoughts": "I might fail or not meet expectations, and my parents may not trust me with my responsibilities.",
+            "meaning_of_at": "If I fail to meet expectations, I am not competent or trustworthy.",
+            "emotion": "Anger, frustration, fear of losing autonomy.",
+            "behavior": "Avoiding tasks, getting defensive when confronted about responsibilities."
+        },
+        {
+            "situation": "When faced with tasks he enjoys or values, like fishing and sports shooting.",
+            "automatic_thoughts": "I am competent and capable in this setting.",
+            "meaning_of_at": "I have significant skills and can succeed in tasks that interest me.",
+            "emotion": "Pride, a sense of accomplishment.",
+            "behavior": "Engaging enthusiastically and responsibly in these activities."
+        },
+        {
+            "situation": "Encountering a conflict or misunderstanding with parents regarding school work.",
+            "automatic_thoughts": "My parents don't understand my struggles or don't trust me.",
+            "meaning_of_at": "I need my parents to believe in me and my ability to manage my ADD and academic responsibilities.",
+            "emotion": "Anger, disappointment, a need for more autonomy and recognition.",
+            "behavior": "Expressing anger, possibly writing anger-driven letters, reflecting on his emotions and considering personal changes."
+        }
+    ]
+}

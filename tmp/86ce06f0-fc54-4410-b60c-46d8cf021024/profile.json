@@ -1,0 +1,47 @@
+{
+    "name": "Yvette",
+    "identifying_info": {
+        "age": "34",
+        "gender": "female",
+        "sexual_orientation": "not specified",
+        "cultural_heritage": "not specified",
+        "religion": "not specified",
+        "living_environment": "busy with academic and social activities",
+        "employment_status": "student",
+        "socioeconomic_status": "not specified"
+    },
+    "chief_complaint": "not specified",
+    "major_symptoms": {
+        "emotional": [
+            "feels good when helping others",
+            "anxiety over academic and social responsibilities",
+            "happy tears when feeling accomplished"
+        ],
+        "cognitive": [
+            "concerns about memory and attention, which may be more related to being busy and having interruptions rather than actual cognitive deficits",
+            "self-doubt which is improving"
+        ],
+        "behavioral": [
+            "proactive in academic settings",
+            "engagement in creative and entrepreneurial activities"
+        ],
+        "physiological": []
+    },
+    "mental_status": "Patient demonstrates confidence in her ideas and public speaking abilities. Shows self-awareness and is working on self-improvement, particularly in the area of time management.",
+    "diagnosis": "not specified",
+    "current_psychiatric_treatment": {
+        "medication": "not specified",
+        "adherence_and_side_effects": "not specified"
+    },
+    "current_significant_relationships": "Mentions interactions with classmates, a mentor, and family members. Does not specify depth of relationships, but seems to have a supportive social network.",
+    "best_lifetime_functioning": "Patient feels she is at her best when engaging with people, being creative, and taking on leadership roles. Currently, she is thriving academically with a high GPA and has a clear vision for her future.",
+    "history_of_present_illness": "not specified",
+    "history_of_psychological_problem_impact": "not specified",
+    "history_of_psychological_care": "Has been in counseling for an unspecified duration, working on issues related to confidence and self-doubt.",
+    "personal_history": "Patient reflects on past decisions and experiences but is focused on the present and future, particularly on her academic and professional goals.",
+    "medical_history_and_limitations": "no limitations or significant medical history reported",
+    "current_non_psychiatric_treatment": {
+        "medication": "not specified",
+        "adherence_and_side_effects": "not specified"
+    }
+}

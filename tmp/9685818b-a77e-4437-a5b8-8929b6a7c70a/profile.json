@@ -1,0 +1,48 @@
+{
+    "name": "Yvette",
+    "identifying_info": {
+        "age": "45",
+        "gender": "female",
+        "sexual_orientation": "heterosexual",
+        "cultural_heritage": "African American",
+        "religion": "not specified",
+        "living_environment": "appears to live with family",
+        "employment_status": "not specified, but is attending school",
+        "socioeconomic_status": "not specified"
+    },
+    "chief_complaint": "Struggling with grief, feelings of responsibility, and personal fulfillment issues.",
+    "major_symptoms": {
+        "emotional": [
+            "grief",
+            "sadness",
+            "guilt"
+        ],
+        "cognitive": [
+            "high self-expectations",
+            "perfectionism",
+            "unresolved thoughts about loss"
+        ],
+        "behavioral": [
+            "difficulty enjoying success",
+            "tendency to take on too much responsibility for others"
+        ],
+        "physiological": []
+    },
+    "mental_status": "During the session, Yvette demonstrated self-awareness in discussing her high standards for herself and her struggles with feelings of grief and loss. She appeared to be articulate about her experiences and her challenges, with emotions surfacing when discussing past significant losses.",
+    "diagnosis": "Adjustment disorder with anxiety, grief, and unresolved issues regarding self-worth and self-expectations.",
+    "current_psychiatric_treatment": {
+        "medication": "not reported",
+        "adherence_and_side_effects": "not reported"
+    },
+    "current_significant_relationships": "Yvette reported having a husband and children, with her marriage spanning over 21 years. She describes a large, extended family, although her relationship dynamics with them were not extensively covered.",
+    "best_lifetime_functioning": "Not specified, but Yvette shows pride in her academic achievements and is driven to excel.",
+    "history_of_present_illness": "Not specified",
+    "history_of_psychological_problem_impact": "Yvette's psychological issues seem to impact her ability to enjoy personal achievements and have contributed to a high-stress level regarding performance and fulfilling others' expectations.",
+    "history_of_psychological_care": "No clear history of prior psychological care is presented, other than she is currently engaging in therapy.",
+    "personal_history": "Yvette has a personal history marked by family losses and high levels of responsibility from an early age.",
+    "medical_history_and_limitations": "No significant medical issues or limitations are mentioned.",
+    "current_non_psychiatric_treatment": {
+        "medication": "not specified",
+        "adherence_and_side_effects": "not specified"
+    }
+}

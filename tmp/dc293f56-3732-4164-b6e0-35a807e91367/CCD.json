@@ -1,0 +1,36 @@
+{
+    "relevent_life_history_and_precipitants": "Father leaves family when Abe is 11 years old. He never sees him again. Mom is overburdened, criticizes when he can't meet her unrealistic expectations. Precipitants to current disorder: Abe struggles and then loses his job and undergoes divorce.",
+    "core_beliefs": "I'm incompetent/a failure.",
+    "intermediate_beliefs": [
+        "It's important to be responsible, competent, reliable and helpful.",
+        "It's important to work hard and be productive."
+    ],
+    "intermediate_beliefs_during_depression": [
+        "If I avoid challenges, I'll be okay, but if I try to do hard things I'll fail.",
+        "If I avoid asking for help, my incompetence won't show but if I do ask for help, people will see how incompetent I am."
+    ],
+    "coping_strategies": "Avoids asking for help and avoids challenges.",
+    "behavioral_models": [
+        {
+            "situation": "Client's cousin was involved in an altercation, niece was involved in a car accident, and her grandfather's shingles worsened.",
+            "automatic_thoughts": "I'm used to it. Just deal with it as it goes.",
+            "meaning_of_at": "Belief in her ability to handle ongoing crises and remain strong despite adversity.",
+            "emotion": "Tired, but also motivated and willing to push through.",
+            "behavior": "Continues to push and work, takes care of family despite feeling exhausted."
+        },
+        {
+            "situation": "Struggles with memories of challenging school experiences and questioning her intelligence.",
+            "automatic_thoughts": "I may find simple things difficult and vice versa.",
+            "meaning_of_at": "Self-perception as different and potentially less intelligent than others.",
+            "emotion": "Self-doubt, anxiety over performance and abilities.",
+            "behavior": "Avoids asking questions and raising her hand despite the desire to learn."
+        },
+        {
+            "situation": "Encountering a life-altering experience while taking a certification test that damaged her self-confidence.",
+            "automatic_thoughts": "Questioning self-worth and intelligence after being accused of cheating.",
+            "meaning_of_at": "Feeling unjustly labeled and criminalized, leading to an internalization of the experience as personal failure.",
+            "emotion": "Devastated, with lasting emotional impact that continues to affect self-esteem.",
+            "behavior": "Obsessive studying and questioning her career path, considering changing her career due to the incident."
+        }
+    ]
+}

@@ -1,5 +1,46 @@
 {
     "name": "Abe",
+    "identifying_info": {
+        "age": 56,
+        "gender": "male",
+        "sexual_orientation": "heterosexual",
+        "cultural_heritage": "American with European heritage",
+        "religion": "Belongs to the Unitarian Church; was not attending church at intake",
+        "living_environment": "Small apartment in large city, lives alone",
+        "employment_status": "unemployed",
+        "socioeconomic_status": "middle class"
+    },
+    "chief_complaint": "Abe sought treatment for severe depressive symptoms and moderate anxiety.",
+    "major_symptoms": {
+        "emotional": [
+            "feelings of depression",
+            "anxiety",
+            "pessimism and some guilt",
+            "lack of pleasure and interest"
+        ],
+        "cognitive": [
+            "trouble making decisions",
+            "trouble concentrating"
+        ],
+        "behavioral": [
+            "avoidance (not cleaning up at home, looking for a job or doing errands)",
+            "social isolation (stopped going to church, spent less time with family, stopped seeing friends)"
+        ],
+        "physiological": [
+            "heaviness in body",
+            "significant fatigue",
+            "low libido",
+            "difficulty relaxing",
+            "decreased appetite"
+        ]
+    },
+    "mental_status": "Abe appeared to be quite depressed. His clothes were somewhat wrinkled; he didn't stand or sit up straight and made little eye contact and didn't smile throughout the evaluation. His movements were a little slow. His speech was normal. He showed little affect other than depression. His thought process was intact. His sensorium, cognition, insight and judgment were within normal limits. He was able to fully participate in treatment.",
+    "diagnosis": "Major Depressive Disorder, single episode, severe, with anxious distress. No personality disorder but mild OCPD features.",
+    "current_psychiatric_treatment": {
+        "medication": "none",
+        "adherence_and_side_effects": "none"
+    },
+    "current_significant_relationships": "Although Abe had withdrawn somewhat from his family, his relationship with his two grown children and four school-age grandchildren were good. He sometimes visited them or attended his grandchildren's sporting events. He had a great deal of conflict with his ex-wife and he had completely withdrawn from his two male friends. He was relatively close to one cousin and less so to one brother. He saw and spoke to his other brother and his mother infrequently and didn't feel close to them.",
     "best_lifetime_functioning": "Abe was at his best when he finished high school, got a job, and moved into an apartment with a friend. This period lasted for about six years. He did well on the job, got along well with his supervisor and co-workers, socialized often with good friends, exercised and kept himself in good shape, and started saving money for the future. He was a good problem-solver, resourceful and resilient. He was respectful to others and pleasant to be around, often helping family and friends without being asked. He was hardworking both at work and around the house. He saw himself as competent, in control, reliable and responsible. He viewed others and his world as basically benign. His future seemed bright to him. He also functioned highly after thi time, though he had more stress in his life after he married and had children.",
     "history_of_present_illness": "Abe developed depressive and anxious symptoms 2 ½ years ago. His symptoms gradually worsened and turned into a major depressive episode about 2 years ago. Since that time, symptoms of depression and anxiety have remained consistently elevated without any periods of remission.",
     "history_of_psychological_problem_impact": "Abe became quite anxious about 2 ½ years ago when his supervisor changed his job responsibilities and provided him with inadequate training. He began to perceive himself as failing on the job and became depressed. His depression increased significantly when he lost his job six months later. He withdrew into himself and stopped many activities: helping around the house, doing yardwork and errands, seeing his friends. His wife then became highly critical and his depression became severe. He had not had any problems with alcohol or other substances",

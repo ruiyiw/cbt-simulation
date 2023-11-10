@@ -1,0 +1,33 @@
+{
+    "relevent_life_history_and_precipitants": "Kevin has been experiencing ongoing bullying at school by a peer, leading to a recent altercation and his subsequent suspension. Conflicts at home include tensions over parental rules and physical aggression during a dispute with his mother over a bowl of chocolate. He expresses a sense of entitlement and frustration regarding personal autonomy.",
+    "core_beliefs": "I am not respected.",
+    "intermediate_beliefs": [
+        "Everyone should respect my belongings and personal space.",
+        "It's important to stand up for myself."
+    ],
+    "intermediate_beliefs_during_depression": [],
+    "coping_strategies": "Reacting to perceived disrespect or aggression with physical actions. Seeking confrontations to assert control or dominance.",
+    "behavioral_models": [
+        {
+            "situation": "Confrontation with a bully at school.",
+            "automatic_thoughts": "He will keep bullying me if I don't stand up for myself.",
+            "meaning_of_at": "I need to show strength to stop the harassment.",
+            "emotion": "Anger",
+            "behavior": "Physical altercation resulting in suspension."
+        },
+        {
+            "situation": "Mother tries to impose restrictions at home.",
+            "automatic_thoughts": "I'm being treated unfairly and controlled.",
+            "meaning_of_at": "I must bend the rules to maintain my independence and autonomy.",
+            "emotion": "Frustration",
+            "behavior": "Defying rules by using hidden phone, wearing forbidden items, etc."
+        },
+        {
+            "situation": "Arguments over personal property and space.",
+            "automatic_thoughts": "My personal belongings and decisions are not being respected.",
+            "meaning_of_at": "I feel violated and have to right this wrong.",
+            "emotion": "Disrespected",
+            "behavior": "Engaging in physical confrontation with mother over chocolate."
+        }
+    ]
+}

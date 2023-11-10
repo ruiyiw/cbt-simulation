@@ -1,0 +1,47 @@
+{
+    "name": "Yvette",
+    "identifying_info": {
+        "age": "40s",
+        "gender": "female",
+        "sexual_orientation": "not specified",
+        "cultural_heritage": "not specified",
+        "religion": "spiritual but not strictly religious, believes in God",
+        "living_environment": "not specified, but takes care of her grandfather and is involved with her family",
+        "employment_status": "likely employed as she mentions going to work",
+        "socioeconomic_status": "not specified, but mentions financial considerations in relation to travel"
+    },
+    "chief_complaint": "not specified, but discusses family challenges and desire for personal time",
+    "major_symptoms": {
+        "emotional": [
+            "frustration with family's choices",
+            "fear for family's safety",
+            "desire for self-care"
+        ],
+        "cognitive": [
+            "aware of need for personal time but struggles with time management"
+        ],
+        "behavioral": [
+            "actively pursuing education",
+            "caring for family members",
+            "neglecting personal recreational activities"
+        ],
+        "physiological": []
+    },
+    "mental_status": "Yvette seems aware of her situation and is able to articulate her feelings and thoughts. She does not report any physiological symptoms.",
+    "diagnosis": "not applicable as no clear mental health diagnosis is provided during the session",
+    "current_psychiatric_treatment": {
+        "medication": "not specified as being on any psychiatric medication",
+        "adherence_and_side_effects": "not applicable"
+    },
+    "current_significant_relationships": "involved with her family, particularly in taking care of her grandfather and interacting with her siblings",
+    "best_lifetime_functioning": "not explicitly stated but appears to be effectively managing her current responsibilities",
+    "history_of_present_illness": "no illness mentioned",
+    "history_of_psychological_problem_impact": "expresses ongoing concern about her family's choices and the impact it has on her stress levels",
+    "history_of_psychological_care": "no history of personal psychological treatment mentioned beyond the current therapy sessions",
+    "personal_history": "discusses her family dynamics extensively, her role within her family, and her education and career goals",
+    "medical_history_and_limitations": "no medical history or limitations mentioned",
+    "current_non_psychiatric_treatment": {
+        "medication": "not specified",
+        "adherence_and_side_effects": "not applicable"
+    }
+}

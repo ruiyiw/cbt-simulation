@@ -1,0 +1,46 @@
+{
+    "name": "Yvette",
+    "identifying_info": {
+        "age": "44",
+        "gender": "female",
+        "sexual_orientation": "heterosexual",
+        "cultural_heritage": "unspecified",
+        "religion": "unspecified",
+        "living_environment": "unspecified",
+        "employment_status": "unspecified",
+        "socioeconomic_status": "unspecified"
+    },
+    "chief_complaint": "struggles with self-confidence and articulation",
+    "major_symptoms": {
+        "emotional": [
+            "self-doubt",
+            "nervousness"
+        ],
+        "cognitive": [
+            "difficulty comprehending instructions",
+            "questioning personal intelligence"
+        ],
+        "behavioral": [
+            "seeking frequent clarification",
+            "nervous laughter when confused"
+        ],
+        "physiological": []
+    },
+    "mental_status": "Yvette presents as bright and capable yet lacks self-confidence. Is able to engage in activities that require a high level of competency, such as public speaking and critical thinking, but tends to minimize her successes and questions her abilities.",
+    "diagnosis": "unspecified",
+    "current_psychiatric_treatment": {
+        "medication": "none",
+        "adherence_and_side_effects": "none"
+    },
+    "current_significant_relationships": "mentioned past friends and classmates, displays a willingness to maintain relationships through cooperation and compromise despite feeling undermined",
+    "best_lifetime_functioning": "Yvette recalls being highly competitive and successful in JROTC during high school, was the strongest female for four years, and became battalion commander.",
+    "history_of_present_illness": "currently experiencing issues with self-confidence and difficulties with verbal articulation in certain situations, seems to have been ongoing for an unspecified amount of time",
+    "history_of_psychological_problem_impact": "Yvette's present challenges appear to affect her academic performance and provoke anxiety in team tasks due to communication and comprehension difficulties",
+    "history_of_psychological_care": "currently engaged in cognitive behavioral therapy, no mention of prior psychological treatment",
+    "personal_history": "has a past characterized by competitiveness and achievement, particularly in JROTC; no other personal history provided in the session",
+    "medical_history_and_limitations": "unspecified, no mention of medical history or limitations during session",
+    "current_non_psychiatric_treatment": {
+        "medication": "unspecified",
+        "adherence_and_side_effects": "unspecified"
+    }
+}

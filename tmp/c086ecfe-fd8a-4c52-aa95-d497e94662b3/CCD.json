@@ -1,0 +1,36 @@
+{
+    "relevent_life_history_and_precipitants": "Has a pattern of nurturing and caring roles which are depth of chosen professional path; positive experiences and confidence in past nursing activities and academic settings.",
+    "core_beliefs": "I'm not smart enough and I can't trust my brain.",
+    "intermediate_beliefs": [
+        "I must understand everything 100% to be considered smart",
+        "I can't show any signs of not knowing, or people will think I'm not intelligent"
+    ],
+    "intermediate_beliefs_during_depression": [
+        "When I can't remember something, it means I'm not bright",
+        "If I stumble or pause, it shows my incompetence"
+    ],
+    "coping_strategies": "Avoiding mathematical responsibility or tasks that could expose perceived incompetence, seeking reassurance through over-clarification, laughing off personal doubts.",
+    "behavioral_models": [
+        {
+            "situation": "Offered to give a speech or engage in social interactions",
+            "automatic_thoughts": "I'm going to mess up and people will see that I am incompetent",
+            "meaning_of_at": "Making a mistake will confirm my lack of intelligence",
+            "emotion": "anxiety",
+            "behavior": "Preparation with some avoidance, seeking validation through performance despite apprehension"
+        },
+        {
+            "situation": "Asked to tutor someone in math or engage in activities involving memory",
+            "automatic_thoughts": "I can't remember well enough or I never understood it well to begin with",
+            "meaning_of_at": "My brain doesn't work well and I can't trust it",
+            "emotion": "self-doubt",
+            "behavior": "Reluctance to charge for tutoring, even if competent; refusal to believe in personal capability"
+        },
+        {
+            "situation": "Required to comprehend reading material or understand new concepts",
+            "automatic_thoughts": "I won't grasp this or I\u2019ll forget it soon after",
+            "meaning_of_at": "Not understanding or retaining everything reflects on my overall intelligence",
+            "emotion": "frustration",
+            "behavior": "Routinely checking the dictionary for understanding, second-guessing herself"
+        }
+    ]
+}

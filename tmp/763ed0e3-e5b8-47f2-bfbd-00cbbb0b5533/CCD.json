@@ -1,0 +1,36 @@
+{
+    "relevent_life_history_and_precipitants": "Kevin is adopted and has encountered situations which required him to demonstrate independence or manage additional responsibilities. His recent conflicts around adherence to household rules and unauthorized vehicle use are escalating his behavioral issues.",
+    "core_beliefs": "I am not trustworthy; my judgment is poor.",
+    "intermediate_beliefs": [
+        "If I do things on my own terms, I'll be in control.",
+        "My parents, especially my mother, don't understand or trust me."
+    ],
+    "intermediate_beliefs_during_depression": [
+        "When I'm not allowed to do what I want, it feels like I'm losing control.",
+        "If I show that I'm angry or defiant, I can get some space and autonomy."
+    ],
+    "coping_strategies": "Kevin tends to lock himself in his room, argue with parents, and engage in defiant behavior such as not handing over his phone and driving a vehicle without permission.",
+    "behavioral_models": [
+        {
+            "situation": "Asked to turn in his phone before doing homework.",
+            "automatic_thoughts": "They don't trust me and are trying to control me.",
+            "meaning_of_at": "My autonomy is being threatened.",
+            "emotion": "anger",
+            "behavior": "Refusing to hand over the phone and locking himself in his room."
+        },
+        {
+            "situation": "Being reminded to adhere to medication schedule.",
+            "automatic_thoughts": "They don't trust me to manage my own medication.",
+            "meaning_of_at": "I'm not seen as responsible or capable.",
+            "emotion": "defensiveness",
+            "behavior": "Taking off the Daytrana patch at unscheduled times."
+        },
+        {
+            "situation": "Driving the vehicle without permission and confronted by parents.",
+            "automatic_thoughts": "They are always trying to catch me doing something wrong.",
+            "meaning_of_at": "I'm always under surveillance and not given freedom.",
+            "emotion": "resentment",
+            "behavior": "Engaging in forbidden activities like unauthorized use of a vehicle."
+        }
+    ]
+}

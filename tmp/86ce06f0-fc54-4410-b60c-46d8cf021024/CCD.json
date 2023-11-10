@@ -1,0 +1,33 @@
+{
+    "relevent_life_history_and_precipitants": "Patient experienced some family issues with her father leaving when she was 11, an overburdened mother with unrealistic expectations, job struggles, and a divorce.",
+    "core_beliefs": "I am confident.",
+    "intermediate_beliefs": [
+        "I should be able to manage all my tasks and have time for leisure activities.",
+        "I need to plan my activities better to avoid interruptions and complete tasks."
+    ],
+    "intermediate_beliefs_during_depression": [],
+    "coping_strategies": "Patient plans to use the library to avoid interruptions when reading, indicating a proactive approach to managing her time and responsibilities.",
+    "behavioral_models": [
+        {
+            "situation": "Deciding to work with Enactus to develop and pitch a business idea.",
+            "automatic_thoughts": "I am not sure about my memory and organizational skills.",
+            "meaning_of_at": "Anxiety over performance and ability to manage tasks.",
+            "emotion": "Anxiety, self-doubt.",
+            "behavior": "Preparing thoroughly, though experiences interruptions."
+        },
+        {
+            "situation": "Engaging with peers and mentors in academic settings.",
+            "automatic_thoughts": "I'm worried I might forget names or details.",
+            "meaning_of_at": "Concern over cognitive abilities affects self-confidence.",
+            "emotion": "Uncertainty, desire for memory improvement.",
+            "behavior": "Seeks validation and works to remember details."
+        },
+        {
+            "situation": "Public speaking and presenting ideas.",
+            "automatic_thoughts": "I am capable of doing this well, I have good ideas.",
+            "meaning_of_at": "Recognition of self-worth and abilities.",
+            "emotion": "Confidence, pride in accomplishments.",
+            "behavior": "Takes initiative in leadership and public speaking roles."
+        }
+    ]
+}

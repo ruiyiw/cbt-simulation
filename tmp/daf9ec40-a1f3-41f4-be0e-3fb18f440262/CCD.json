@@ -1,0 +1,36 @@
+{
+    "relevent_life_history_and_precipitants": "Yvette experienced traumatic events in her past, including her father leaving when she was a child, causing instability and unpredictability in her family life which still affects her need for control and predictability.",
+    "core_beliefs": "I must control my environment to prevent bad things from happening. If I'm not thoroughly prepared, something negative will occur.",
+    "intermediate_beliefs": [
+        "If I know everything word for word, I will prevent failure.",
+        "I must remember every detail otherwise I'm not smart or prepared enough."
+    ],
+    "intermediate_beliefs_during_depression": [
+        "My self-worth is tied to my memory and ability to control my environment.",
+        "If I can't remember or control everything, I am failing myself and others."
+    ],
+    "coping_strategies": "Yvette engages in repeatedly checking facts and looking up words, abstains from trusting context clues for understanding, and constantly questions her intelligence which helps her feel an illusion of control.",
+    "behavioral_models": [
+        {
+            "situation": "Reading material for school",
+            "automatic_thoughts": "I won't understand this unless I look up every word I don't know.",
+            "meaning_of_at": "I must know every detail to be sure of my understanding and intelligence.",
+            "emotion": "anxious",
+            "behavior": "Stops reading to look up words, interrupts study process"
+        },
+        {
+            "situation": "When given a task or responsibility",
+            "automatic_thoughts": "I have to remember everything and control every aspect to prevent negative outcomes.",
+            "meaning_of_at": "If I don't control the situation, I'll be responsible for any issues that arise.",
+            "emotion": "anxiety",
+            "behavior": "Micro-managing, excessive questioning of own capabilities"
+        },
+        {
+            "situation": "Post academic learning experiences",
+            "automatic_thoughts": "If I don't recall this information word for word later, it means I've failed and I'm not smart.",
+            "meaning_of_at": "My value is based on my ability to remember everything in detail.",
+            "emotion": "fear",
+            "behavior": "Avoids processing information in a healthy, efficient way"
+        }
+    ]
+}

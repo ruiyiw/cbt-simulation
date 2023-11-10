@@ -1,0 +1,36 @@
+{
+    "relevent_life_history_and_precipitants": "Yvette mentions a transition from feeling a need to control to allowing herself to express her emotions more openly.",
+    "core_beliefs": "I'm capable and can trust myself.",
+    "intermediate_beliefs": [
+        "I need to check every word I don't know to understand the context.",
+        "I should avoid technical challenges to prevent frustration."
+    ],
+    "intermediate_beliefs_during_depression": [
+        "Avoiding research and technical issues means avoiding frustration and self-disappointment.",
+        "I can't handle many responsibilities at once without getting overwhelmed."
+    ],
+    "coping_strategies": "Yvette placed dictionaries out of reach to avoid the temptation of looking up every unknown word, and instead allowed herself to trust her understanding of context. She also addressed her avoidance of research by actively engaging in a research program event, despite initial hesitation.",
+    "behavioral_models": [
+        {
+            "situation": "Yvette reads without using a dictionary.",
+            "automatic_thoughts": "I felt like something was missing.",
+            "meaning_of_at": "Using a dictionary is crucial for complete understanding.",
+            "emotion": "initial discomfort",
+            "behavior": "continues reading, allowing context to aid understanding"
+        },
+        {
+            "situation": "Yvette receives an email about the Undergraduate Research Program.",
+            "automatic_thoughts": "Research is not for me because I dislike it and the computer doesn't cooperate.",
+            "meaning_of_at": "I should avoid research to circumvent technical difficulties and personal inadequacy.",
+            "emotion": "anxiety, self-doubt",
+            "behavior": "decides to attend the research program event despite initial dread"
+        },
+        {
+            "situation": "Yvette is in the company of people she perceives as more professional, like a provost.",
+            "automatic_thoughts": "Maybe I should have been more professional.",
+            "meaning_of_at": "I need to act in a certain way to fit in with professional people.",
+            "emotion": "self-consciousness",
+            "behavior": "continues to be herself, engaging in conversation authentically"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Yvette",
+    "identifying_info": {
+        "age": "40s",
+        "gender": "female",
+        "sexual_orientation": "unspecified",
+        "cultural_heritage": "unspecified",
+        "religion": "unspecified",
+        "living_environment": "not mentioned",
+        "employment_status": "implied current student, past nursing experience",
+        "socioeconomic_status": "not specified"
+    },
+    "chief_complaint": "Difficulty with reading comprehension and remembering, paired with self-doubt and a hindering perception of intelligence",
+    "major_symptoms": {
+        "emotional": [
+            "self-doubt",
+            "concern about memory and comprehension abilities"
+        ],
+        "cognitive": [
+            "questioning of own intelligence",
+            "worry over ability to comprehend and retain information",
+            "difficulties with translating thoughts into words or explanations"
+        ],
+        "behavioral": [
+            "avoiding charges for tutoring due to lack of confidence",
+            "engaging in helping and mentoring others",
+            "use of humor in social interactions"
+        ],
+        "physiological": []
+    },
+    "mental_status": "Patient is intellectually curious and values learning; exhibits a sense of humor, warmth, positivity, and impressive social skills. Exhibits a tendency to question her own cognitive abilities despite evidence to the contrary, indicating an imbalance between self-perception and actual capabilities.",
+    "diagnosis": "No formal diagnosis specified, but signs of self-esteem issues related to cognitive self-assessment are present.",
+    "current_psychiatric_treatment": {
+        "medication": "none indicated",
+        "adherence_and_side_effects": "not applicable"
+    },
+    "current_significant_relationships": "Positive connections with peers and professions, chosen as a mentor by a fellow student, good at connecting with people and is sought after for advice.",
+    "best_lifetime_functioning": "Patient was capable and confident in past nursing activities and is highly regarded in current academic settings; recognized for being good at mathematics in the past and social interactions.",
+    "history_of_present_illness": "Not explicitly discussed in current session.",
+    "history_of_psychological_problem_impact": "Not discussed in session.",
+    "history_of_psychological_care": "Past history not discussed, but current CBT therapy sessions ongoing.",
+    "personal_history": "Patient has a history of nurturing and caring for others, is well-liked, and those traits seem to have been reinforced over time.",
+    "medical_history_and_limitations": "No significant medical history or limitations discussed in the session.",
+    "current_non_psychiatric_treatment": {
+        "medication": "none indicated",
+        "adherence_and_side_effects": "not applicable"
+    }
+}

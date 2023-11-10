@@ -1,0 +1,33 @@
+{
+    "relevent_life_history_and_precipitants": "Kevin enjoys outdoor activities but also experiences restlessness and an intolerance to discomfort. He lives with his parents and has a younger sister with whom he has tensions. Recently, he is less engaged with videogames and has shifted his focus towards real-life experiences such as paintball. Kevin's asthma seems to be a significant factor in his life, affecting his behavior and emotional reactions during times of discomfort.",
+    "core_beliefs": "I'm capable and can handle challenges in real-life situations.",
+    "intermediate_beliefs": [
+        "It's important to be active and engage in real-life experiences.",
+        "I can accomplish what I set out to do and don't need to rely too much on virtual activities like videogames."
+    ],
+    "intermediate_beliefs_during_depression": [],
+    "coping_strategies": "Engages in outdoor activities, minimizes time spent on videogames, and shows a desire to be self-reliant, such as by keeping his asthma inhaler with him.",
+    "behavioral_models": [
+        {
+            "situation": "Swimming and spending an entire day with family and relatives",
+            "automatic_thoughts": "I'm worn out and need to be alone.",
+            "meaning_of_at": "Too much social interaction drains me and I need personal time to recover.",
+            "emotion": "Irritability",
+            "behavior": "Becomes mean, possibly short-tempered or confrontational, especially towards his sister"
+        },
+        {
+            "situation": "Encounter with a loud and continuous asthma cough at home",
+            "automatic_thoughts": "I can't breathe and this is intolerable.",
+            "meaning_of_at": "Immediate physical discomfort is overwhelming and needs to be addressed right now.",
+            "emotion": "Panic",
+            "behavior": "Coughs loudly without concern for volume, focusing solely on trying to breathe"
+        },
+        {
+            "situation": "Father looking for the inhaler and suggesting it's not an emergency",
+            "automatic_thoughts": "Nobody understands the severity of what I'm experiencing",
+            "meaning_of_at": "Being misunderstood or not taken seriously in stressful situations is frustrating",
+            "emotion": "Anger",
+            "behavior": "Becomes short and irritable, expressing frustration vocally"
+        }
+    ]
+}

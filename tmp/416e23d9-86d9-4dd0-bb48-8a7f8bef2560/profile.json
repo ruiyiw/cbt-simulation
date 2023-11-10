@@ -1,0 +1,47 @@
+{
+    "name": "Kevin",
+    "identifying_info": {
+        "age": "teen",
+        "gender": "male",
+        "sexual_orientation": "not explicitly stated",
+        "cultural_heritage": "not explicitly stated",
+        "religion": "not explicitly stated",
+        "living_environment": "with family",
+        "employment_status": "student",
+        "socioeconomic_status": "not explicitly stated"
+    },
+    "chief_complaint": "Issues with aggression and conflict management.",
+    "major_symptoms": {
+        "emotional": [
+            "anger",
+            "frustration"
+        ],
+        "cognitive": [
+            "justification of aggressive response to bullying"
+        ],
+        "behavioral": [
+            "physical altercation at school",
+            "disrespectful to parental rules"
+        ],
+        "physiological": [
+            "not explicitly stated"
+        ]
+    },
+    "mental_status": "The patient expressed anger and frustration with regard to a bullying incident at school. He justified his act of aggressiveness as self-defense.",
+    "diagnosis": "not provided but suggested areas of concern include aggression and issues with authority",
+    "current_psychiatric_treatment": {
+        "medication": "none reported",
+        "adherence_and_side_effects": "not applicable"
+    },
+    "current_significant_relationships": "Conflicted relationship with mother, feels respected by father, issues with peer/bully at school",
+    "best_lifetime_functioning": "not explicitly stated but appears to function well with structure and respect",
+    "history_of_present_illness": "Recent escalation in the school incident leading to suspension and discussion in therapy.",
+    "history_of_psychological_problem_impact": "not explicitly stated but patient has had prior issues with anger and reacting to bullying",
+    "history_of_psychological_care": "Currently in therapy; past history of psychological care not explicitly stated",
+    "personal_history": "Rebels against parental control, possibly seeking autonomy and respect",
+    "medical_history_and_limitations": "none reported",
+    "current_non_psychiatric_treatment": {
+        "medication": "none reported",
+        "adherence_and_side_effects": "not applicable"
+    }
+}

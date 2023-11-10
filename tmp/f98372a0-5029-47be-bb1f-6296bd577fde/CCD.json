@@ -1,0 +1,37 @@
+{
+    "relevent_life_history_and_precipitants": "Kevin, a 13-year-old male student living in a family home, is currently grieving the loss of his pet, which has greatly affected his emotional state, leading to anger and isolated behavior. He has a history of focus and concentration problems without his medication for ADD, and exhibits defiance and resistance to his parents' guidance, particularly in connection with his school attendance and adherence to his medication schedule. Tensions within the family unit have been observed.",
+    "core_beliefs": "N/A",
+    "intermediate_beliefs": [
+        "My feelings and perspectives are not fully understood or respected by others.",
+        "I must handle my problems on my own and resist outside interference or control.",
+        "My personal space and time are essential, and interruptions are seen as an infringement."
+    ],
+    "intermediate_beliefs_during_depression": [
+        "The world is against me when I am trying to cope with difficult emotions.",
+        "People do not take my feelings seriously, especially when I'm deeply troubled."
+    ],
+    "coping_strategies": "Avoids confronting emotional distress directly and prefers solitary activities to manage emotions, such as spending time alone or engaging in increased screen time. May refuse to go to school or participate in regular activities when feeling particularly defiant or overwhelmed.",
+    "behavioral_models": [
+        {
+            "situation": "Loss of pet and family's insistence on school attendance",
+            "automatic_thoughts": "Their concerns are unreasonable and intrusive.",
+            "meaning_of_at": "Kevin feels misunderstood and intruded upon.",
+            "emotion": "Anger and frustration",
+            "behavior": "Yelling, defiance, and withdrawal to his room"
+        },
+        {
+            "situation": "Knocking on door when wanting to be left alone",
+            "automatic_thoughts": "They are continuously bothering me and not respecting my wishes.",
+            "meaning_of_at": "Kevin perceives the actions as a lack of respect for his need for privacy and space.",
+            "emotion": "Anger and annoyance",
+            "behavior": "Refusal to open the door, expressing anger"
+        },
+        {
+            "situation": "Finding out about the unexcused absence policy regarding his pet's death",
+            "automatic_thoughts": "No one understands how much the pet meant to me.",
+            "meaning_of_at": "Kevin feels his grief is not being acknowledged as valid or significant.",
+            "emotion": "Hurt and frustration",
+            "behavior": "Arguing with parents and expressing anger towards school policies"
+        }
+    ]
+}
