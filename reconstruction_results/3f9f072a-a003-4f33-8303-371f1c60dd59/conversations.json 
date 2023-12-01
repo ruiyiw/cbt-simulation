@@ -1,0 +1,52 @@
+[
+    {
+        "round": 0,
+        "therapist": "\n        Hello Yvette, my name is Dr. CBT. I understand that you've been feeling stressed and anxious lately. I'm glad that you're here, taking the first step towards seeking help. Why don't you tell me a little bit about what's been happening?",
+        "patient": "\n        Hey, Dr. CBT. Yeah, life has just been overwhelming me lately, with all the pressures and expectations, you know. Can't pinpoint something specific to be honest, but just feeling stressed."
+    },
+    {
+        "round": 1,
+        "therapist": "\n        Thank you for sharing that, Yvette. It sounds like you're feeling overwhelmed by a lot of different stressors and expectations. Stress and anxiety can indeed be caused by many things, sometimes all at once, making it difficult to identify a single source. To help break this down, could you maybe give examples of occasions when you've felt particularly stressed or anxious? This allows us to explore your thoughts, feelings, and behaviors during these situations.",
+        "patient": "\n        Well, just the other day, I was reading this complex book and I was so tempted to reach for the dictionary after almost every sentence. But I didn't. And, um, there was an invitation to a research program that was making me nervous because I feared the technicalities. But I decided to show up anyway. Felt really anxious, though. I guess that's what you're asking for?"
+    },
+    {
+        "round": 2,
+        "therapist": "\n        Yes, Yvette, that's exactly what we're looking for. Let's start with the first situation - reading a complex book. So you were attempting to read a complicated text and felt the urge to look up words but didn't. What thoughts were going through your mind at that time? What was your emotional response and how did it affect your behavior? The aim is to understand the links between these aspects.",
+        "patient": "\n        Alright... well, it kind of felt incomplete not being able to look up the definitions. Like something was missing, you know? And I guess it made me feel a bit uncomfortable initially but I carried on reading anyhow. It was strange, not one hundred percent comforting, honestly."
+    },
+    {
+        "round": 3,
+        "therapist": "\n        I appreciate you sharing that, Yvette. Can I infer from your explanation that you were feeling somewhat unsettled because you felt like you were missing out on a part of the understanding of the book? Sort of like an 'imperfect' experience? And then you decided to push through that feeling and keep reading. What did this situation mean to you, and are there any thoughts or beliefs about yourself or life that this situation triggered?",
+        "patient": "\n        I suppose... yeah, I felt a little incomplete, like I wasn't fully grasping what I was reading. I've always believed in understanding every bit, every word. So pushing ahead without referring to a dictionary was challenging initially. I guess it kind of made me confront my routine, you know? Like, maybe it's okay to not know everything and still keep going. Difficult to accept but it's a start, isn't it?"
+    },
+    {
+        "round": 4,
+        "therapist": "\n        That's a powerful insight, Yvette. It sounds like you've always believed that understanding every bit of information was critical, and changing this pattern was initially uncomfortable for you. But you are attempting to embrace the new thought that it's okay not always to know everything and still continue. Now let's talk about the second situation - the research program invitation. Could you share what thoughts and emotions you experienced, and how it influenced your behavior? We're trying to spot a pattern in the way you think, feel, and act in different stressful circumstances.",
+        "patient": "\n        Well, at first, research just felt intimidating to me. I was worried about the technical part and honestly doubted my ability to handle it. It made me anxious, yes. But despite that, I agreed to go. It's kind of been a stepping outside the comfort zone for me, facing this fear."
+    },
+    {
+        "round": 5,
+        "therapist": "\n        Thank you for explaining that, Yvette. It seems like your initial thought was doubting your ability because of its technical nature, causing anxiety. But, you courageously chose to confront your fear and attend, stepping outside your comfort zone. What was the meaning that you attached to this situation? What specific beliefs about yourself or life do you think it may have tapped into?",
+        "patient": "\n        I think... I was associating it all with the idea of failure or incompetence. There's a part of me that often thinks I'm not up for these technically challenging things. But, um, choosing to attend that research program, it... it was like telling myself that it's okay to face challenges, no matter if I'm feeling uncertain about it. It felt like I was pushing against that little voice that keeps saying I might not be \u2018enough\u2019, you know?"
+    },
+    {
+        "round": 6,
+        "therapist": "\n        Yvette, your awareness and understanding of your thoughts are commendable. By pushing against the voice of self-doubt and choosing to face challenges, you're exhibiting resilience. Now let's layout these two situations within a cognitive-behavioural model. For the first situation, the fact that you were reading without checking every unfamiliar word triggered automatic thoughts of incompleteness, followed by some discomfort. However, you managed to carry on, reinterpreting it as a challenge to grow. For the second situation, the research program invitation triggered thoughts of inadequacy and anxiety, but again, you pushed through and attended, trying to redefine your perspective on facing challenges. Could you identify any patterns or common themes within these situations? What core beliefs do you think might be underpinning these thoughts and feelings?",
+        "patient": "\n        Patterns? Well, um, in both situations I did feel a bit scared, and there were doubts, but somehow I managed to do the things anyway. I guess it has something to do with this belief that I've held for a long time about needing to be almost perfect, to know everything in detail and avoid anything that might lead to potential failure. But now... I'm kind of trying to challenge that. Maybe it's okay to not always be perfect, or know everything, and it's also okay to face challenges, even when I'm not certain about the outcome. I guess it's about trusting in myself more, right?"
+    },
+    {
+        "round": 7,
+        "therapist": "\n        Absolutely, Yvette, that's an excellent observation. Your awareness of these patterns is the first major step towards change. These situations seem to tap into an enduring belief that you need to be perfect, avoid any kind of failure, and have deep knowledge about everything. But you're challenging these beliefs by pushing forward despite discomfort and uncertainty, and in doing so, you're fostering trust in yourself. This is really positive progress and it's the crux of cognitive behavioral therapy. For the next step, I would suggest working together on some possible strategies to manage these underlying beliefs, and cope more effectively with uncertainties and challenges. Would that be alright with you?",
+        "patient": "\n        Yes, that sounds... that sounds like a worthwhile effort, Dr. CBT. I suppose I need to work on this. Not sure where to begin, honestly. But, yeah, let's give it a shot."
+    },
+    {
+        "round": 8,
+        "therapist": "\n        I'm glad to hear that you're open to this, Yvette. Let's take small steps. If we look at the pattern we identified, when a challenging situation arises, your automatic thought is often associated with your self-doubt, and you tend to feel anxious. But you're already developing a new narrative - that it's okay to face challenges and that you don't have to be perfect or have complete knowledge about everything. The first strategy we might look at is reinforcing this new narrative. You could practice self-talk affirmations, such as \"I can face challenges\" or \"it's okay not to be perfect.\" How does that sound to you?",
+        "patient": "\n        That's... well, that's a bit unfamiliar territory for me. Always associated affirmations with those self-help books, never thought I'd actually use them. But, um, I can give it a shot. If it will help me handle things better, then why not? Let's try."
+    },
+    {
+        "round": 9,
+        "therapist": "\n        That's the spirit, Yvette! It's natural that this method may feel unusual at first, but it's all about challenging your current mindset and replacing self-doubt with more positive and realistic thoughts about your abilities. Always remember, practice makes perfect. Start your day with these affirmations and repeat them whenever you're feeling anxious or overwhelmed. \n\nIn addition to affirmations, let's consider another strategy of exposure therapy. This means gradually, and in a manageable way, exposing yourself to circumstances that you find a bit challenging or anxiety-inducing. The aim is to reduce your fear response over time. For instance, you can start reading more complex books or attending more technical research programs. This approach may help you get more comfortable facing these situations and reduce your anxiety over time. What do you think about that?",
+        "patient": "\n        Uh, exposure therapy? Sounds a bit scary and challenging, honestly. But I guess, that's the idea, isn't it? To confront these fears and discomfort? I'm not 100% sure about it, but I suspect that's because it seems like a daunting step right now. I suppose we can look into that, too... gradually, as you said. Like, starting small, right?"
+    }
+]

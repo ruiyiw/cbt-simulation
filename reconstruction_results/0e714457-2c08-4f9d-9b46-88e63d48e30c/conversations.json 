@@ -1,0 +1,52 @@
+[
+    {
+        "round": 0,
+        "therapist": "\n        Hi Kevin, thank you for taking the time to speak with me today. I understand that you might be feeling a mix of emotions right now, which is perfectly normal. We're here to understand your feelings of anxiety and stress, and work on strategies to manage them. To start, can you share a recent situation where you experienced these feelings?",
+        "patient": "\n        Well, last week, I had a big math test, and I remember struggling with studying for it. I just couldn't focus... Then my Dad asked me about it, and I got really mad...almost blew up at him."
+    },
+    {
+        "round": 1,
+        "therapist": "\n        It sounds like you've been experiencing stress related to your academics, specifically this recent math test, and it's affecting your interactions with others, like your father. Would you be comfortable sharing what thoughts were going through your mind when you were studying and when your dad asked you about it?",
+        "patient": "\n        I guess...when I was studying, I felt like I was going to fail. And with my dad, I got upset 'cause I felt like he didn't understand. Like, he doesn't get how hard it is for me."
+    },
+    {
+        "round": 2,
+        "therapist": "\n        When you were studying, it seems you had the automatic thought that you were going to fail. During the incident with your dad, your thought was that he doesn't understand your struggle. Such thoughts can be quite intense and it's normal to feel strong emotions in response. If you could name the emotions you felt in each of these situations, what would they be?",
+        "patient": "\n        I felt frustrated and angry, I guess... Frustrated during the studying, and when my dad asked about it, it was more anger."
+    },
+    {
+        "round": 3,
+        "therapist": "\n        Feeling frustration when you were studying is a valid reaction based on your thoughts of anticipated failure. Similarly, anger is understandable when stemming from the thought that your father doesn't understand your struggle. Could you also tell me how these emotions affected your behavior in both situations? Did you behave differently than you would have under less stressful circumstances?",
+        "patient": "\n        I just wanted to storm off while I was studying...and with Dad, I did. I ended up yelling a bit then just leaving...went to work at the store. I wouldn't usually react that way."
+    },
+    {
+        "round": 4,
+        "therapist": "\n        It can certainly feel overwhelming when our emotions dictate our actions. In your situation, you felt frustration led you to want to leave your study session, and anger made you yell at your dad and eventually leave. These reactions differ from how you'd usually behave. The connection between our thoughts, emotions, and behaviors is quite strong. Seeing these patterns is the first step toward developing coping strategies. \n\nIt seems like you hold some core beliefs that are contributing to your anxiety and stress. Core beliefs are often about ourselves, others or the world. They are typically developed during early life experiences and then reinforced over time. What do you believe about yourself, particularly in relation to your ability to handle challenges and about others understanding your struggles?",
+        "patient": "\n        I just... I think I should be able to handle my studies and, well... problems too, like without getting so worked up. And... about others, I don't know... I just don't think they get it."
+    },
+    {
+        "round": 5,
+        "therapist": "\n        It's helpful that you've identified some of your core beliefs; these fundamental perceptions about ourselves and others impact our thoughts, emotions, and actions. One of your core beliefs seems to be that you should be able to handle your studies and problems without getting worked up. Another belief appears to be that others do not understand your struggles. These beliefs, in turn, can influence your intermediate beliefs\u2014rules, attitudes, and assumptions\u2014that we act upon. Could you share any rules or assumptions you adhere to when it comes to dealing with these situations? ",
+        "patient": "\n        Well, I don\u2019t know... I guess, I feel I gotta work harder to get things right... And if I can't, then it's my fault or something."
+    },
+    {
+        "round": 6,
+        "therapist": "\n        It's OK, Kevin. Sharing these thoughts isn't always easy. It seems you're operating under the intermediate belief of \"I have to work harder to get things right,\" which, when you're unable to match that standard leads to self-blame. It seems like in situations of high stress, this belief might morph into \"If I fail, it's my fault\", does that resonate with you? These beliefs can intensify feelings of anxiety and frustration, which subsequently influence your behaviors. But remember, identifying these beliefs is a step towards managing such situations better. Now, let's look at some coping strategies. What are the ways you typically try to handle such stressful situations?",
+        "patient": "\n        I guess... I try to cool off, like, go for a walk or something. Sometimes, I write... or go to the store and help out a bit - that helps me take my mind off things. Also, I like to go fishing when I can."
+    },
+    {
+        "round": 7,
+        "therapist": "\n        Those sound like effective ways to alleviate stress and distract yourself from negative thoughts. Activities such as walking, writing, working at the store, and fishing can provide a mental break and help shift your mindset. Let's look at how these coping strategies can be applied specifically in stressful situations like your math test preparation or when you feel misunderstood. Before that, can I ask about any precipitating factors or impactful life events that might reinforce your core and intermediate beliefs?",
+        "patient": "\n        I...I guess it's just been rough lately... My birth mom gave me up 'cause she was too young, so now I feel like I have to prove I'm capable enough\u2026And stuff has just been piling up with school and all."
+    },
+    {
+        "round": 8,
+        "therapist": "\n        It sounds like you've been going through some significant challenges and these are understandably influencing your beliefs about yourself. This personal history of needing to prove your capability and the stress from school is validating your beliefs of needing to perform well and feeling misunderstood when you struggle. It's okay to feel this way, Kevin, but remember, you don't have to face these feelings alone. \n\nLet's pivot towards applying your existing coping strategies to specific situations. For instance, before you get frustrated studying for your next test, you could take a walk to relieve your stress. Or when you feel misunderstood, you could write down your feelings to better comprehend them. How does that sound? Would you be comfortable trying these strategies next time you're in a similar situation?",
+        "patient": "\n        Yeah, I think I could do that... taking a walk or writing things down. I mean, it might help...guess I can give it a try."
+    },
+    {
+        "round": 9,
+        "therapist": "\n        That's a great attitude, Kevin. Trying out these strategies in response to your thoughts and emotions can help break the cycle and influence a different outcome. It's important that we take things slow and remember change won't happen overnight. \n\nNow let's start summarizing what we've discussed so far, and we can create an initial cognitive conceptualization diagram:\n\n- Relevant life history and precipitants: Kevin's birth mother had him at a young age and gave him up. There are stressors related to his academic work. \n\n- Core Beliefs: Kevin should be perfectly capable of handling his problems and studying, and people do not understand his struggles.\n\n- Intermediate Beliefs: Kevin has to work harder to get things right. When he fails, it's his fault.\n\n- Intermediate beliefs during stressful periods: If he fails at something, it's his fault.\n\n- Coping Strategies: Going for a walk, writing, working at a store, fishing.\n\n- Behavioral Models include:\n\n    - Situation: Studying for a big test. Automatic thoughts: Kevin is going to fail. Emotion: Frustration. Behavior: Wanting to leave the study session.\n\n    - Situation: Father asking about the test. Automatic thoughts: Kevin's father doesn't understand. Emotion: Anger. Behavior: Kevin yells at his father and leaves.\n\nHow does this summary resonate with you? Would you like to add something or correct anything?",
+        "patient": "\n        Yeah, I guess that... that sums it up... It's spot on, I think. Nothing to add, really... just feels weird to see it all laid out like that."
+    }
+]
